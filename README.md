@@ -1,6 +1,6 @@
 # 🏰 堡壘戰爭（Fortress War）
 
-遊戲說明 | [常用指令]()
+遊戲說明 | [常用指令](https://github.com/YC815/fortress-war_mcbe/blob/main/common-command.md)
 
 ## 🎮 遊戲簡介
 
